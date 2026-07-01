@@ -1,0 +1,14 @@
+.agents/
+.codex/
+Thumbs.db
+.DS_Store
+images/gym-dashboard.jpg
+images/levora-*.png
+images/website-header-logo.png
+images/lexion-logo-glow.png
+images/lexion-logo-transparent.png
+images/lexion-logo.png
+images/lexion-navbar-header-transparent.png
+images/lexion-navbar-logo-fit.png
+images/lexion-website-header.png
+images/lexion-wordmark-transparent.png
