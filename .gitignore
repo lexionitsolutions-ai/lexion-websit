@@ -12,3 +12,10 @@ images/lexion-navbar-header-transparent.png
 images/lexion-navbar-logo-fit.png
 images/lexion-website-header.png
 images/lexion-wordmark-transparent.png
+
+# wrangler files
+.wrangler
+.dev.vars*
+!.dev.vars.example
+.env*
+!.env.example
